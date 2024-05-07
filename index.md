@@ -11,3 +11,7 @@ func main() {
   fmt.Println("Golang 1.22")
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
